@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-ckGnB_TKIF]
 - Live Site URL: [https://newsletter-sign-up-pi.vercel.app/]
 
 ### Built with

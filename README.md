@@ -7,9 +7,9 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ### The challenge

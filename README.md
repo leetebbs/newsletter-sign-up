@@ -28,7 +28,7 @@ Users should be able to:
 
 ![](./desktop-screenshot.PNG)
 ![](./desktop-success-screenshot.PNG)
-![](./mobile-frontpage-screenshot.PNG)
+![](./Mobile-frontpage-screenshot.PNG)
 ![](./mobile-success-screenshot.PNG)
 
 ### Links
